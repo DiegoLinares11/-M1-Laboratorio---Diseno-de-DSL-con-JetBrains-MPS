@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="754c5681-1e19-4072-8fdf-d4f1cdd70dd5" name="Changes" comment="" />
+    <list default="true" id="754c5681-1e19-4072-8fdf-d4f1cdd70dd5" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.mps/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.mps/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/classes_gen/Shapes/structure/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/classes_gen/Shapes/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/classes_gen/Shapes/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/classes_gen/Shapes/structure/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/classes_gen/Shapes/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/classes_gen/Shapes/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/QueriesGenerated$LINKS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/QueriesGenerated$LINKS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/QueriesGenerated$PROPS.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/QueriesGenerated$PROPS.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/QueriesGenerated$PVQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/QueriesGenerated$PVQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/QueriesGenerated$RTQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/QueriesGenerated$RTQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/QueriesGenerated$SNsQ.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/QueriesGenerated$SNsQ.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/QueriesGenerated.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/QueriesGenerated.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/generator/classes_gen/Shapes/generator/template/main/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/generator/source_gen.caches/Shapes/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/generator/source_gen.caches/Shapes/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/generator/source_gen.caches/Shapes/generator/template/main/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/generator/source_gen.caches/Shapes/generator/template/main/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/generator/source_gen/Shapes/generator/template/main/QueriesGenerated.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/generator/source_gen/Shapes/generator/template/main/QueriesGenerated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/generator/source_gen/Shapes/generator/template/main/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/generator/source_gen/Shapes/generator/template/main/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/generator/template/Shapes.generator.template.main@generator.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/generator/template/Shapes.generator.template.main@generator.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/languageModels/Shapes.structure.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/languageModels/Shapes.structure.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/sandbox/classes_gen/Shapes/sandbox/MyDrawing$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/sandbox/classes_gen/Shapes/sandbox/MyDrawing$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/sandbox/classes_gen/Shapes/sandbox/MyDrawing.class" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/sandbox/classes_gen/Shapes/sandbox/MyDrawing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/sandbox/classes_gen/Shapes/sandbox/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/sandbox/classes_gen/Shapes/sandbox/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/sandbox/models/Shapes.sandbox.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/sandbox/models/Shapes.sandbox.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/sandbox/source_gen.caches/Shapes/sandbox/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/sandbox/source_gen.caches/Shapes/sandbox/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/sandbox/source_gen/Shapes/sandbox/MyDrawing.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/sandbox/source_gen/Shapes/sandbox/MyDrawing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/sandbox/source_gen/Shapes/sandbox/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/sandbox/source_gen/Shapes/sandbox/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/source_gen.caches/Shapes/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/source_gen.caches/Shapes/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/source_gen.caches/Shapes/structure/generated" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/source_gen.caches/Shapes/structure/generated" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/Language.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/Language.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/structure/ConceptPresentationAspectImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/structure/ConceptPresentationAspectImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/structure/LanguageConceptSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/structure/LanguageConceptSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/structure/StructureAspectDescriptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/structure/StructureAspectDescriptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/structure/aspectcps-descriptorclasses.mps" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/structure/aspectcps-descriptorclasses.mps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/structure/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/structure/trace.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/trace.info" beforeDir="false" afterPath="$PROJECT_DIR$/languages/s.Shapes/source_gen/Shapes/trace.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,7 +47,7 @@
         <TabState>
           <option name="title" value="Console" />
           <tab>
-            <model ref="28c02b35-17e9-4052-94cf-572d31bde778/r:0804dfa2-9d8d-462e-8d03-ebb02314cb33(TempModule28c02b35-17e9-4052-94cf-572d31bde778/ConsoleModel_350958828785000)">
+            <model ref="362f6960-d60a-4a97-ba44-8ec5511aaf1b/r:9e078c93-b5ff-4b5c-ad44-490f229c84b0(TempModule362f6960-d60a-4a97-ba44-8ec5511aaf1b/ConsoleModel_352183703878800)">
               <persistence version="9" />
               <languages>
                 <devkit ref="70d3d6da-af63-483d-a75f-9c8acf8de332(jetbrains.mps.console.devkit)" />
@@ -33,11 +67,11 @@
                   <concept id="757553790980850366" name="jetbrains.mps.console.base.structure.History" flags="ng" index="3balQm" />
                 </language>
               </registry>
-              <node concept="aymSD" id="7ExVsxxAVTJ">
-                <node concept="3balQm" id="7ExVsxxAVTK" role="aymYE" />
-                <node concept="2Clz$F" id="7ExVsxxAVTL" role="aymYO" />
-                <node concept="2_V_lH" id="7ExVsxxAVTM" role="1PhJh3">
-                  <ref role="2_V_lI" node="7ExVsxxAVTL" />
+              <node concept="aymSD" id="6rgiefNHzlC">
+                <node concept="3balQm" id="6rgiefNHzlD" role="aymYE" />
+                <node concept="2Clz$F" id="6rgiefNHzlE" role="aymYO" />
+                <node concept="2_V_lH" id="6rgiefNHzlF" role="1PhJh3">
+                  <ref role="2_V_lI" node="6rgiefNHzlE" />
                 </node>
               </node>
             </model>
@@ -45,6 +79,22 @@
         </TabState>
       </list>
     </option>
+  </component>
+  <component name="DefaultSearchOptions3">
+    <search_options>
+      <finders>
+        <finders />
+      </finders>
+      <scope>
+        <scope_type scope_type="PROJECT" module="&lt;default&gt;" model="&lt;default&gt;" />
+      </scope>
+      <view>
+        <flags show_one_result="true" new_tab="false" />
+      </view>
+    </search_options>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MPSBookmarkManager">
     <option name="myBookmarkInfos">
@@ -107,6 +157,58 @@
               <item name="" type="a3d0baea:RootLogicalProjectViewNode" />
               <item name="MPS Project [Shapes] " type="2ccce88f:TopHierarchyProjectViewNode$TopProjectViewNode" />
             </path>
+            <path>
+              <item name="" type="a3d0baea:RootLogicalProjectViewNode" />
+              <item name="MPS Project [Shapes] " type="2ccce88f:TopHierarchyProjectViewNode$TopProjectViewNode" />
+              <item name="Shapes.sandbox [solution]" type="97b3832:SolutionProjectViewNode" />
+            </path>
+            <path>
+              <item name="" type="a3d0baea:RootLogicalProjectViewNode" />
+              <item name="MPS Project [Shapes] " type="2ccce88f:TopHierarchyProjectViewNode$TopProjectViewNode" />
+              <item name="Shapes.sandbox [solution]" type="97b3832:SolutionProjectViewNode" />
+              <item name="'Shapes'" type="3ff8ed02:BaseVirtualFolderProjectViewNode$ModelsVirtualFolderProjectViewNode" />
+            </path>
+            <path>
+              <item name="" type="a3d0baea:RootLogicalProjectViewNode" />
+              <item name="MPS Project [Shapes] " type="2ccce88f:TopHierarchyProjectViewNode$TopProjectViewNode" />
+              <item name="Shapes.sandbox [solution]" type="97b3832:SolutionProjectViewNode" />
+              <item name="'Shapes'" type="3ff8ed02:BaseVirtualFolderProjectViewNode$ModelsVirtualFolderProjectViewNode" />
+              <item name="r:28a6d337-ad89-4400-b975-c1bd6e33dc8a(Shapes.sandbox) in IdeaFile[path: C:/Users/diego/MPSProjects/Shapes/languages/s.Shapes/sandbox/models/Shapes.sandbox.mps]" type="150f8c45:ModelHierarchyProjectViewNode" />
+            </path>
+            <path>
+              <item name="" type="a3d0baea:RootLogicalProjectViewNode" />
+              <item name="MPS Project [Shapes] " type="2ccce88f:TopHierarchyProjectViewNode$TopProjectViewNode" />
+              <item name="Shapes [language]" type="cd46e9f6:LanguageProjectViewNode" />
+            </path>
+            <path>
+              <item name="" type="a3d0baea:RootLogicalProjectViewNode" />
+              <item name="MPS Project [Shapes] " type="2ccce88f:TopHierarchyProjectViewNode$TopProjectViewNode" />
+              <item name="Shapes [language]" type="cd46e9f6:LanguageProjectViewNode" />
+              <item name="r:c5af9f55-6095-48ca-b66b-70da9c3f57fb(Shapes.structure) in IdeaFile[path: C:/Users/diego/MPSProjects/Shapes/languages/s.Shapes/languageModels/Shapes.structure.mps]" type="79b3f1f3:LanguageProjectViewNode$LanguageAspectProjectViewNode" />
+            </path>
+            <path>
+              <item name="" type="a3d0baea:RootLogicalProjectViewNode" />
+              <item name="MPS Project [Shapes] " type="2ccce88f:TopHierarchyProjectViewNode$TopProjectViewNode" />
+              <item name="Shapes [language]" type="cd46e9f6:LanguageProjectViewNode" />
+              <item name="r:a6f63b9a-5cc8-4eb8-8222-686d3dfeb45e(Shapes.editor) in IdeaFile[path: C:/Users/diego/MPSProjects/Shapes/languages/s.Shapes/languageModels/Shapes.editor.mps]" type="79b3f1f3:LanguageProjectViewNode$LanguageAspectProjectViewNode" />
+            </path>
+            <path>
+              <item name="" type="a3d0baea:RootLogicalProjectViewNode" />
+              <item name="MPS Project [Shapes] " type="2ccce88f:TopHierarchyProjectViewNode$TopProjectViewNode" />
+              <item name="Shapes [language]" type="cd46e9f6:LanguageProjectViewNode" />
+              <item name="Shapes/ [generator]" type="1a1cc504:GeneratorProjectViewNode" />
+            </path>
+            <path>
+              <item name="" type="a3d0baea:RootLogicalProjectViewNode" />
+              <item name="MPS Project [Shapes] " type="2ccce88f:TopHierarchyProjectViewNode$TopProjectViewNode" />
+              <item name="Shapes [language]" type="cd46e9f6:LanguageProjectViewNode" />
+              <item name="Shapes/ [generator]" type="1a1cc504:GeneratorProjectViewNode" />
+              <item name="'Shapes.generator.template'" type="3ff8ed02:BaseVirtualFolderProjectViewNode$ModelsVirtualFolderProjectViewNode" />
+            </path>
+            <path>
+              <item name="" type="a3d0baea:RootLogicalProjectViewNode" />
+              <item name="'Checkpoints and Transient Models'" type="62004a8a:TopHierarchyProjectViewNode$TransientsProjectViewNode" />
+            </path>
           </expand>
           <select />
           <presentation>
@@ -119,8 +221,158 @@
               <item name="MPS Project [Shapes] " type="2ccce88f:TopHierarchyProjectViewNode$TopProjectViewNode" />
               <presentation>
                 <attributes />
-                <data iconPath="expUi/nodes/solution.svg" iconPlugin="com.intellij" isLeaf="true" text="NewSolution" />
-                <item name="NewSolution [solution]" type="97b3832:SolutionProjectViewNode" />
+                <data iconPath="expUi/nodes/solution.svg" iconPlugin="com.intellij" isLeaf="false" text="Shapes.sandbox" />
+                <item name="Shapes.sandbox [solution]" type="97b3832:SolutionProjectViewNode" />
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Shapes" />
+                  <item name="'Shapes'" type="3ff8ed02:BaseVirtualFolderProjectViewNode$ModelsVirtualFolderProjectViewNode" />
+                  <presentation>
+                    <attributes />
+                    <data iconPath="expUi/nodes/model.svg" iconPlugin="com.intellij" isLeaf="false" text="" />
+                    <item name="r:28a6d337-ad89-4400-b975-c1bd6e33dc8a(Shapes.sandbox) in IdeaFile[path: C:/Users/diego/MPSProjects/Shapes/languages/s.Shapes/sandbox/models/Shapes.sandbox.mps]" type="150f8c45:ModelHierarchyProjectViewNode" />
+                    <presentation>
+                      <attributes />
+                      <data iconPath="expUi/nodes/rootNode.svg" iconPlugin="com.intellij" isLeaf="true" text="MyDrawing" />
+                      <item name="MyDrawing" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                    </presentation>
+                  </presentation>
+                </presentation>
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expUi/nodes/language.svg" iconPlugin="com.intellij" isLeaf="false" text="Shapes" />
+                <item name="Shapes [language]" type="cd46e9f6:LanguageProjectViewNode" />
+                <presentation>
+                  <attributes />
+                  <data isLeaf="false" text="structure" />
+                  <item name="r:c5af9f55-6095-48ca-b66b-70da9c3f57fb(Shapes.structure) in IdeaFile[path: C:/Users/diego/MPSProjects/Shapes/languages/s.Shapes/languageModels/Shapes.structure.mps]" type="79b3f1f3:LanguageProjectViewNode$LanguageAspectProjectViewNode" />
+                  <presentation>
+                    <attributes />
+                    <data isLeaf="true" text="Canvas" />
+                    <item name="Canvas" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes />
+                    <data isLeaf="true" text="Circle" />
+                    <item name="Circle" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes />
+                    <data isLeaf="true" text="Color" />
+                    <item name="Color" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes />
+                    <data isLeaf="true" text="ColorReference" />
+                    <item name="ColorReference" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes />
+                    <data isLeaf="true" text="Shape" />
+                    <item name="Shape" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes />
+                    <data isLeaf="true" text="Square" />
+                    <item name="Square" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes />
+                    <data isLeaf="true" text="Triangle" />
+                    <item name="Triangle" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data isLeaf="false" text="editor" />
+                  <item name="r:a6f63b9a-5cc8-4eb8-8222-686d3dfeb45e(Shapes.editor) in IdeaFile[path: C:/Users/diego/MPSProjects/Shapes/languages/s.Shapes/languageModels/Shapes.editor.mps]" type="79b3f1f3:LanguageProjectViewNode$LanguageAspectProjectViewNode" />
+                  <presentation>
+                    <attributes />
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="enhanced" />
+                    <item name="'enhanced'" type="93bfb7e3:BaseVirtualFolderProjectViewNode$NodesVirtualFolderProjectViewNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes />
+                    <data isLeaf="true" text="Canvas_Editor" />
+                    <item name="(instance of ConceptEditorDeclaration)" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes />
+                    <data isLeaf="true" text="Circle_Editor" />
+                    <item name="(instance of ConceptEditorDeclaration)" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes />
+                    <data isLeaf="true" text="Color_Editor" />
+                    <item name="(instance of ConceptEditorDeclaration)" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes />
+                    <data isLeaf="true" text="ColorReference_Editor" />
+                    <item name="(instance of ConceptEditorDeclaration)" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes />
+                    <data isLeaf="true" text="ShapeColor" />
+                    <item name="ShapeColor" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                  </presentation>
+                  <presentation>
+                    <attributes />
+                    <data isLeaf="true" text="Square_Editor" />
+                    <item name="(instance of ConceptEditorDeclaration)" type="dedc1bdc:SimpleNodeProjectViewNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data isLeaf="false" text="constraints" />
+                  <item name="r:9a002f3a-ecda-4647-be29-40b3a4e1a7cd(Shapes.constraints) in IdeaFile[path: C:/Users/diego/MPSProjects/Shapes/languages/s.Shapes/languageModels/Shapes.constraints.mps]" type="79b3f1f3:LanguageProjectViewNode$LanguageAspectProjectViewNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data isLeaf="false" text="behavior" />
+                  <item name="r:e3fd34ee-160e-4715-9be9-898a6a1653e6(Shapes.behavior) in IdeaFile[path: C:/Users/diego/MPSProjects/Shapes/languages/s.Shapes/languageModels/Shapes.behavior.mps]" type="79b3f1f3:LanguageProjectViewNode$LanguageAspectProjectViewNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data isLeaf="true" text="typesystem" />
+                  <item name="r:e44eb14d-c2bb-4d65-bb30-217515d5e47a(Shapes.typesystem) in IdeaFile[path: C:/Users/diego/MPSProjects/Shapes/languages/s.Shapes/languageModels/Shapes.typesystem.mps]" type="79b3f1f3:LanguageProjectViewNode$LanguageAspectProjectViewNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data isLeaf="false" text="intentions" />
+                  <item name="r:9acda20f-f1e0-485f-bac0-18b2eef5c3e9(Shapes.intentions) in IdeaFile[path: C:/Users/diego/MPSProjects/Shapes/languages/s.Shapes/languageModels/Shapes.intentions.mps]" type="79b3f1f3:LanguageProjectViewNode$LanguageAspectProjectViewNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expUi/nodes/generator.svg" iconPlugin="com.intellij" isLeaf="false" text="generator/Shapes/" />
+                  <item name="Shapes/ [generator]" type="1a1cc504:GeneratorProjectViewNode" />
+                  <presentation>
+                    <attributes />
+                    <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="Shapes.generator.template" />
+                    <item name="'Shapes.generator.template'" type="3ff8ed02:BaseVirtualFolderProjectViewNode$ModelsVirtualFolderProjectViewNode" />
+                    <presentation>
+                      <attributes />
+                      <data iconPath="expUi/nodes/models/templatesModel.svg" iconPlugin="com.intellij" isLeaf="false" text="" />
+                      <item name="r:7167ea39-4474-4333-92a9-38da0777e4f4(Shapes.generator.template.main@generator) in IdeaFile[path: C:/Users/diego/MPSProjects/Shapes/languages/s.Shapes/generator/template/Shapes.generator.template.main@generator.mps]" type="150f8c45:ModelHierarchyProjectViewNode" />
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes />
+                    <data iconPath="expUi/nodes/model.svg" iconPlugin="com.intellij" isLeaf="false" text="" />
+                    <item name="r:dcf4f5ee-4991-4a64-82ca-ac6febe39856(util) in IdeaFile[path: C:/Users/diego/MPSProjects/Shapes/languages/s.Shapes/generator/template/util.mps]" type="150f8c45:ModelHierarchyProjectViewNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="accessories" />
+                  <item name="accessories" type="1adb9f5e:LanguageProjectViewNode$AccessorySModelProjectViewNode" />
+                </presentation>
+                <presentation>
+                  <attributes />
+                  <data iconPath="expui/nodes/moduleGroup.svg" iconPlugin="com.intellij" isLeaf="false" text="all models" />
+                  <item name="all models" type="29437f5f:LanguageProjectViewNode$LanguageAllModelsProjectViewNode" />
+                </presentation>
               </presentation>
             </presentation>
             <presentation>
@@ -130,8 +382,23 @@
             </presentation>
             <presentation>
               <attributes />
-              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="true" text="" />
+              <data iconPath="expui/fileTypes/scratches.svg" iconPlugin="com.intellij" isLeaf="false" text="" />
               <item name="'Checkpoints and Transient Models'" type="62004a8a:TopHierarchyProjectViewNode$TransientsProjectViewNode" />
+              <presentation>
+                <attributes />
+                <data iconPath="expUi/nodes/transient.svg" iconPlugin="com.intellij" isLeaf="false" text="checkpoints" />
+                <item name="checkpoints [transient models module]" type="da8cad93:TopHierarchyProjectViewNode$TransientModuleProjectViewNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expUi/nodes/transient.svg" iconPlugin="com.intellij" isLeaf="false" text="Shapes#5898776707557467699@transient21" />
+                <item name="Shapes#5898776707557467699@transient21 [transient models module]" type="da8cad93:TopHierarchyProjectViewNode$TransientModuleProjectViewNode" />
+              </presentation>
+              <presentation>
+                <attributes />
+                <data iconPath="expUi/nodes/transient.svg" iconPlugin="com.intellij" isLeaf="false" text="Shapes@transient20" />
+                <item name="Shapes@transient20 [transient models module]" type="da8cad93:TopHierarchyProjectViewNode$TransientModuleProjectViewNode" />
+              </presentation>
             </presentation>
           </presentation>
         </subPane>
@@ -144,11 +411,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Java Application.Node MyDrawing.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "almostDone",
+    "last_opened_file_path": "C:/Users/diego/Downloads/LenguageDesign/mps_dsl"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="Node MyDrawing" type="Java Application" factoryName="Java" temporary="true">
       <myNode>

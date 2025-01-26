@@ -14,11 +14,19 @@ public class MyDrawing extends JFrame {
     protected void paintComponent(Graphics graphics) {
       super.paintComponent(graphics);
       graphics.setColor(Color.blue);
-      graphics.drawOval(10, 20, 30, 30);
+      graphics.drawOval(190, 250, 60, 60);
       graphics.setColor(Color.green);
-      graphics.drawRect(100, 200, 50, 50);
+      graphics.drawRect(140, 150, 60, 60);
+      graphics.setColor(Color.green);
+      graphics.drawRect(240, 150, 60, 60);
       graphics.setColor(Color.red);
-      graphics.drawRect(200, 300, 60, 60);
+      graphics.drawRect(100, 100, 250, 250);
+      {
+        graphics.setColor(Color.blue);
+        int[] xpoints = {250, 200, 225};
+        int[] ypoints = {240, 240, 180};
+        graphics.drawPolygon(xpoints, ypoints, 3);
+      }
     }
   };
 

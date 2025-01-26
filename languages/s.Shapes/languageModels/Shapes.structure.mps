@@ -140,5 +140,41 @@
       <ref role="PrY4T" to="tpck:h0TrEE$" resolve="INamedConcept" />
     </node>
   </node>
+  <node concept="1TIwiD" id="6rgiefNJxxW">
+    <property role="EcuMT" value="7408501530908563580" />
+    <property role="TrG5h" value="Triangle" />
+    <property role="34LRSv" value="triangle" />
+    <ref role="1TJDcQ" node="57sEyAnjW5x" resolve="Shape" />
+    <node concept="1TJgyi" id="6rgiefNJxFz" role="1TKVEl">
+      <property role="IQ2nx" value="7408501530908564195" />
+      <property role="TrG5h" value="x1" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyi" id="6rgiefNJxHc" role="1TKVEl">
+      <property role="IQ2nx" value="7408501530908564300" />
+      <property role="TrG5h" value="y1" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyi" id="6rgiefNJxI1" role="1TKVEl">
+      <property role="IQ2nx" value="7408501530908564353" />
+      <property role="TrG5h" value="x2" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyi" id="6rgiefNJxID" role="1TKVEl">
+      <property role="IQ2nx" value="7408501530908564393" />
+      <property role="TrG5h" value="y2" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyi" id="6rgiefNJxJ4" role="1TKVEl">
+      <property role="IQ2nx" value="7408501530908564420" />
+      <property role="TrG5h" value="x3" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+    <node concept="1TJgyi" id="6rgiefNJxJv" role="1TKVEl">
+      <property role="IQ2nx" value="7408501530908564447" />
+      <property role="TrG5h" value="y3" />
+      <ref role="AX2Wp" to="tpck:fKAQMTA" resolve="integer" />
+    </node>
+  </node>
 </model>
 
