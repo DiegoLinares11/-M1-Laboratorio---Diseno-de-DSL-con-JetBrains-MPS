@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<debug-info version="2">
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242864:jetbrains.mps.baseLanguage.structure.LocalVariableDeclarationStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1068581242878:jetbrains.mps.baseLanguage.structure.ReturnStatement" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1070462154015:jetbrains.mps.baseLanguage.structure.StaticFieldDeclaration" />
+  <concept fqn="c:f3061a53-9226-4cc5-a443-f952ceaf5816/1081236700938:jetbrains.mps.baseLanguage.structure.StaticMethodDeclaration" />
+  <root nodeRef="r:dcf4f5ee-4991-4a64-82ca-ac6febe39856(util)/5186063956047080806">
+    <file name="ColorReferenceResolver.java">
+      <node id="2945537052553768274" at="17,63,18,190" concept="0" />
+      <node id="5186063956048378499" at="18,190,19,251" concept="1" />
+      <node id="5186063956047080806" at="23,0,24,0" concept="2" trace="name$MnvL" />
+      <node id="5186063956047117093" at="17,0,21,0" concept="3" trace="findColorDeclaration#(Lorg/jetbrains/mps/openapi/model/SNode;)Lorg/jetbrains/mps/openapi/model/SNode;" />
+      <scope id="5186063956047117095" at="17,63,19,251">
+        <var name="colorNode" id="2945537052553768275" />
+      </scope>
+      <scope id="5186063956047117093" at="17,0,21,0">
+        <var name="color" id="5186063956047117166" />
+      </scope>
+      <unit id="5186063956047080806" at="22,0,25,0" name="util.ColorReferenceResolver$PROPS" />
+      <unit id="5186063956047080806" at="16,0,26,0" name="util.ColorReferenceResolver" />
+    </file>
+  </root>
+</debug-info>
+
